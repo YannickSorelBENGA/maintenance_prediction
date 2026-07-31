@@ -28,7 +28,7 @@ st.set_page_config(
 )
 
 
-st.title("🛠️ Predictive Maintenance Prediction App")
+st.title("🛠️ Predictive Maintenance App")
 st.write("This application predicts whether a machine is likely to fail using the final Random Forest model.")
 
 def reset_inputs():
